@@ -1,4 +1,4 @@
-# Postman - HackTheBox Starting Point Tier 2
+# Postman - HackTheBox Retired Machine
 
 **Date:** 2026-06-29
 **Difficulty:** Easy

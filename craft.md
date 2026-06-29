@@ -1,4 +1,4 @@
-# Craft - HackTheBox VIP+ Retired
+# Craft - HackTheBox Retired Machine
 
 **Date:** 2026-06-26
 **Difficulty:** Medium
