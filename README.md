@@ -2,6 +2,8 @@
 
 Selected HackTheBox machine writeups documenting methodology. Each writeup covers reconnaissance, enumeration, exploitation, and post-exploitation. It also documents what was solved independently and what required consulting an official writeup.
 
+These writeups cover retired HackTheBox machines only. No active machines or challenge flags are published.
+
 ## Machines
 
 | Machine | Category | Difficulty |
